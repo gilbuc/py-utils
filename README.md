@@ -1,2 +1,2 @@
-# some utily scripts written in python
+# some utility scripts written in python
 
